@@ -1,5 +1,12 @@
 # freeapp
-企业，管理后台，后台管理系统，小程序，电商，家政服务，
+企业，管理后台，后台管理系统，小程序定制。
+
+所有内容均自己开发，不套用模板，所以支持二次迭代和自定义功能需求。
+
+# 相关案例
+总后台：https://app.msudn.com/freeapp-aadmin
+租户后台：https://tenant.msudn.com/freeapp-tenant  账号:test01  密码:123456
+网页端：https://app.msudn.com/freeapp-h5
 
 
 
